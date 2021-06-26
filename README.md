@@ -1,5 +1,5 @@
-# SpringBootMVCREST
-Spring Boot MVC REST application with MongoDB database. 
+# SpringBootMongo App
+Spring Boot REST application with MongoDB database. 
 
 mvn clean spring-boot:run
 
